@@ -17,7 +17,7 @@
 - Promote sustainability through digital guidance (paperless)
 - Serve as a model for future smart campus systems
 
-## 💻Technologies Used
+## Technologies Used
 
 | Layer         | Technologies                  |
 |--------------|-------------------------------|
