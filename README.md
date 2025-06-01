@@ -2,7 +2,7 @@
 
 **CampusWay** is a web-based platform developed to enhance campus navigation for students, faculty, and visitors at Al Imam Mohammad Ibn Saud Islamic University. The system includes interactive 3D maps, professor office hour search, and a responsive interface accessible across devices.
 
-## 📌 Project Overview
+##  Project Overview
 
 - 🧭 Interactive 3D indoor maps powered by **Mappedin**
 - 📅 Faculty office hour lookup with **OTP-based secure login**
@@ -10,14 +10,14 @@
 - 🌐 Supports both **Arabic and English**
 - 🖥️ Built with HTML, CSS, JavaScript, PHP, and MySQL
 
-## 🎯 Goals
+##  Goals
 
 - Simplify campus navigation
 - Improve time management and reduce confusion
 - Promote sustainability through digital guidance (paperless)
 - Serve as a model for future smart campus systems
 
-## 💻 Technologies Used
+## 💻Technologies Used
 
 | Layer         | Technologies                  |
 |--------------|-------------------------------|
@@ -28,6 +28,6 @@
 | UI Framework | Bootstrap 5                   |
 | Email        | PHPMailer for OTP             |
 
-## 🔐 Authentication
+##  Authentication
 
 - Professors log in using an OTP sent to their email for secure schedule management.
