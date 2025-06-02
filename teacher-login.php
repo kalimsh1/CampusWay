@@ -49,7 +49,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             $mail->Host = 'smtp.gmail.com';
             $mail->SMTPAuth = true;
             $mail->Username = 'qpksnx7@gmail.com';
-            $mail->Password = 'wjcyczkumuztnwsz';
+            $mail->Password = '#####';
             $mail->SMTPSecure = 'tls';
             $mail->Port = 587;
             $mail->setFrom('qpksnx7@gmail.com', 'CampusWay');
