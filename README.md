@@ -1,4 +1,4 @@
-# CampusWay - Smart 3D Indoor Campus Mapping System ( https://campusway.ct.ws/?i=1&lang=en )
+# https://campusway.ct.ws/?i=1&lang=en 
 
 **CampusWay** is a web-based platform developed to enhance campus navigation for students, faculty, and visitors at Al Imam Mohammad Ibn Saud Islamic University. The system includes interactive 3D maps, professor office hour search, and a responsive interface accessible across devices.
 
